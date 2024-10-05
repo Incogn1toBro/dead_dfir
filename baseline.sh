@@ -1,7 +1,7 @@
 #!/bin/bash
 
 clear
-export GREP_COLOR="01;35"
+export GREP_COLORS="01;35"
 
 MOUNT_POINT="$1"
 TIME_ZONE="$2"
